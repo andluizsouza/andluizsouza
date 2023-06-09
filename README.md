@@ -19,4 +19,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andluizsouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andluizsouza&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andluizsouza&layout=donut&theme=dracula)
