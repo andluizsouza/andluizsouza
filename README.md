@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning about how to build **reliable ML systems** to solve real-world problems
  
-- 👯 I’m looking to collaborate on **open source community**
+- 👯 I’m looking to collaborate on the **open source community**
 
 - 🤔 I’m looking for help with Large Language Models and Generative AI
 
@@ -14,7 +14,9 @@
 
 - 😄 Pronouns: he/his/him
 
-- ⚡ Fun fact: I fall in love
+- ⚡ Fun fact: I love Astronomy, Cosmology, Sci-Fi stuffs
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andluizsouza)](https://github.com/andluizsouza/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=andluizsouza&show_icons=true&theme=dracula)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andluizsouza&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
