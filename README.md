@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi, I'm Anderson Souza 👋🏾👨🏽‍💻
 
-<!--
-**andluizsouza/andluizsouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Data Science** and **Machine Learning Operations**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning about how to build **reliable ML systems** to solve real-world problems
+ 
+- 👯 I’m looking to collaborate on **open source community**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤔 I’m looking for help with Large Language Models and Generative AI
+
+- 💬 Ask me about Data Science, Artificial Inteligence and Physics
+
+- 📫 How to reach me: [https://www.linkedin.com/in/andluizsouza/](https://www.linkedin.com/in/andluizsouza/)
+
+- 😄 Pronouns: he/his/him
+
+- ⚡ Fun fact: I fall in love
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andluizsouza)](https://github.com/andluizsouza/github-readme-stats)
