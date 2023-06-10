@@ -8,13 +8,11 @@
 
 - 🤔 I’m looking for help with Large Language Models and Generative AI
 
-- 💬 Ask me about Data Science, Artificial Inteligence and Physics
+- 💬 Ask me about Data Science, Artificial Intelligence and Physics
 
 - 📫 How to reach me: [https://www.linkedin.com/in/andluizsouza/](https://www.linkedin.com/in/andluizsouza/)
 
-- 😄 Pronouns: he/his/him
-
-- ⚡ Fun fact: I love Astronomy, Cosmology, Sci-Fi stuffs
+- ⚡ Fun fact: I love Astronomy, Cosmology, Sci-Fi stuffs and soccer
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=andluizsouza&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
